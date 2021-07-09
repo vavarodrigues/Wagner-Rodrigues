@@ -3,7 +3,7 @@
 
 📫  How to reach me?
 
-[![Linkedin Badge](https://img.shields.io/badge/-wagnerrodrigues-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wagner-rodrigues-alexandre-4a014228)](https://www.linkedin.com/in/wagner-rodrigues-alexandre-4a014228)
+[![Linkedin Badge](https://img.shields.io/badge/-wagnerrodrigues-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wagner-rodrigues-alexandre-4a014228)](https://www.linkedin.com/in/wagner-rodrigues-alexandre)
 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=vavarodrigues&count_private=true&show_icons=true&include_all_commits=true)
