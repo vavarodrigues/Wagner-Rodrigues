@@ -5,5 +5,8 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-wagnerrodrigues-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wagner-rodrigues-alexandre-4a014228)](https://www.linkedin.com/in/wagner-rodrigues-alexandre)
 
+<p align="right">
+	<img src="https://komarev.com/ghpvc/?username=vavarodrigues&label=Visitors" alt="vavarodrigues" />
+</p>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=vavarodrigues&count_private=true&show_icons=true&include_all_commits=true)
