@@ -6,5 +6,5 @@
 [![Linkedin Badge](https://img.shields.io/badge/-wagnerrodrigues-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wagner-rodrigues-alexandre-4a014228)](https://www.linkedin.com/in/wagner-rodrigues-alexandre)
 
 <p align="right">
-	<img src="https://komarev.com/ghpvc/?username=vavarodrigues&label=Visitors" alt="vavarodrigues" />
+	<img src="https://komarev.com/ghpvc/?username=vavasilva&label=Visitors" alt="vavasilva" />
 </p>
