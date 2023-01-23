@@ -3,7 +3,7 @@
 
 📫  How to reach me?
 
-[![Linkedin Badge](https://img.shields.io/badge/-wagnerrodrigues-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wagner-rodrigues-alexandre-4a014228)](https://www.linkedin.com/in/wagner-rodrigues-alexandre)
+[![Linkedin Badge](https://img.shields.io/badge/-wagner_silva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/wagner-rodrigues-alexandre-4a014228](https://www.linkedin.com/in/wagner-r-a-silva))](https://www.linkedin.com/in/wagner-r-a-silva)
 
 <p align="right">
 	<img src="https://komarev.com/ghpvc/?username=vavasilva&label=Visitors" alt="vavasilva" />
